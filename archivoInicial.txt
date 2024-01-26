@@ -1,0 +1,36 @@
+Nombre producto: Queso
+Cantidad: 10
+Precio: 3
+
+Nombre producto: Tomates
+Cantidad: 5
+Precio: 8
+
+Nombre producto: Papas
+Cantidad: 5
+Precio: 6
+
+Nombre producto: Pollo
+Cantidad: 5
+Precio: 8
+
+Nombre producto: Yogurt
+Cantidad: 5
+Precio: 7
+
+Nombre producto: Carnes
+Cantidad: 5
+Precio: 6
+
+Nombre producto: Leche
+Cantidad: 5
+Precio: 6
+
+Nombre producto: Huevos
+Cantidad: 5
+Precio: 3
+
+Nombre producto: Aguacate
+Cantidad: 5
+Precio: 7
+
